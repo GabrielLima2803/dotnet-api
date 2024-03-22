@@ -32,3 +32,6 @@ appsettings.Development.json
 *.sln.docstates
 *.user
 *.8thWall
+
+# Banco de Dados
+dev.sqlite

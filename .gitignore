@@ -1,0 +1,34 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos de dependência
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.json
+*.csproj.user
+
+# Diretório de publicação
+publish/
+
+# Ferramentas geradas
+_Tools/
+
+# Arquivos de log e rastreamento
+*.log
+logs/
+
+# Arquivos de configuração local
+appsettings.Development.json
+
+# Arquivos temporários do Visual Studio
+.vs/
+*.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+*.user
+*.8thWall

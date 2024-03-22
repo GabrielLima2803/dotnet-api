@@ -39,9 +39,14 @@ Este repositório contém uma API para realizar operações CRUD (Create, Read, 
     dotnet ef database update
     ```
 
-7. Por fim, para iniciar o servidor local e executar o projeto, use o seguinte comando:
+7. inicie o servidor local e executar o projeto, use o seguinte comando:
 
     ```
     dotnet run
+    ```
+8. Por fim, abra o swagger para usar os endpoints da api
+
+    ```
+    http://localhost:sua-porta/swagger/index.html
     ```
 

@@ -11,19 +11,24 @@ Este repositório contém uma API para realizar operações CRUD (Create, Read, 
 
 1. Abra o terminal do seu sistema operacional na pasta raiz do projeto.
 
-2. Execute o seguinte comando para restaurar as dependências do projeto:
+    ```
+    cd dotnet-api
+    ```
+
+
+3. Execute o seguinte comando para restaurar as dependências do projeto:
 
     ```
     dotnet restore
     ```
 
-3. Após restaurar as dependências, execute o seguinte comando para compilar o projeto:
+4. Após restaurar as dependências, execute o seguinte comando para compilar o projeto:
 
     ```
     dotnet build
     ```
 
-4. Por fim, para iniciar o servidor local e executar o projeto, use o seguinte comando:
+5. Por fim, para iniciar o servidor local e executar o projeto, use o seguinte comando:
 
     ```
     dotnet run

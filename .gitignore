@@ -7,21 +7,21 @@ obj/
 *.exe
 *.pdb
 *.dll.config
-*.json
+# *.json
 *.csproj.user
 
 # Diretório de publicação
 publish/
 
 # Ferramentas geradas
-_Tools/
+# _Tools/
 
 # Arquivos de log e rastreamento
 *.log
 logs/
 
 # Arquivos de configuração local
-appsettings.Development.json
+# appsettings.Development.json
 
 # Arquivos temporários do Visual Studio
 .vs/

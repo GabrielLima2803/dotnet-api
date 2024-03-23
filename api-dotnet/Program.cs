@@ -7,6 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using api_dotnet.models.estudantes;
 using api_dotnet.routes.estudantes;
 using api_dotnet.Data;
+using api_dotnet.routes;
 
 namespace api_dotnet
 {
@@ -34,6 +35,7 @@ namespace api_dotnet
             app.UseHttpsRedirection();
 
             app.AddRotasEstudantes();
+            app.AddCategoria();
             app.Run();
         }
     }

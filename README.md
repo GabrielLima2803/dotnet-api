@@ -1,6 +1,6 @@
-# API CRUD de Estudantes com .NET Core
+# API CRUD com .NET Core
 
-Este repositório contém uma API para realizar operações CRUD (Create, Read, Update, Delete) em estudantes usando .NET Core.
+Este repositório contém uma API para realizar operações CRUD (Create, Read, Update, Delete) usando .NET Core.
 
 ## Como Rodar o Projeto
 
